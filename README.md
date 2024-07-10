@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="ss project" src="">
+<img width="1266" alt="ss project" src="src/assets/img/hp.png">
 
 Built using:
 
