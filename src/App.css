@@ -285,7 +285,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner img {
   animation: updown 3s linear infinite;
   border-radius: 50%;
-  height: 650px; /* Adjust the height to make it smaller */
+  height: 500px; /* Adjust the height to make it smaller */
   width:500px;
 }
 @keyframes updown {
